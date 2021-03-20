@@ -96,7 +96,7 @@ group :development do
   gem 'spring'
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
   gem 'web-console', '>= 4.1.0'
-  # Procfile を読み込み, 複数のプロセスを一度に管理するツール.
+  # Manage multiple process using Procfile
   gem 'foreman'
 end
 
